@@ -1,0 +1,6 @@
+{
+  "name": "SnapQuiz AI - Trắc Nghiệm Từ Ảnh Chụp",
+  "description": "Chụp ảnh đề thi bằng camera điện thoại, tự động trích xuất câu hỏi và đáp án đánh dấu bằng AI, trộn đề làm bài thi và chấm điểm chi tiết.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
